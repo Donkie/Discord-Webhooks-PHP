@@ -6,8 +6,8 @@
     "license": "Unlicense",
     "type": "wrapper",
     "require": {
-        "php": "^5.3",
-        "ext-curl": "^0.0.0"
+        "php": "^5.3 || ^7.0",
+        "ext-curl": "*"
     },
     "license": "Unlicense",
     "authors": [
